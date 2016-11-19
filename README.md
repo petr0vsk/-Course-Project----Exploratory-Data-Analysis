@@ -1,1 +1,4 @@
-# Exploratory_Data_Analysis_Project_1
+
+
+
+# Please note that the general functions delivered in the file global.R
